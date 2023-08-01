@@ -8,6 +8,7 @@ So Eden sank to grief,
 So dawn goes down to day.
 Nothing gold can stay.
 =======
+Accept the changes
 
 >>>>>>> feature
 
